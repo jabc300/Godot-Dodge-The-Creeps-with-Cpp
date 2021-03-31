@@ -4,6 +4,7 @@
 
 Before compilating the project you need to compile the C++ bindings library (godot-cpp).
 On this example, "scons" is required to do the compilation.
+
 Scons can be installed using the next command with python:
 
 ```bash
