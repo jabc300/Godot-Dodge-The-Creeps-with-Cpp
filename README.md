@@ -32,7 +32,7 @@ Compilation instructions extracted from here:
 https://github.com/godotengine/godot-cpp
 
 ### Compiling the project
-While you are in the "Godot-Dodge-The-Creeps-with-Cplusplus" folder use the next lines in console:
+While you are in the "Godot-Dodge-The-Creeps-with-Cpp" folder use the next lines in console:
 
 ```bash
 cl /Fosrc\ /c src/*.cpp /nologo -EHsc -DNDEBUG /MDd /Igodot-cpp\include /Igodot-cpp\include\core /Igodot-cpp\include\gen /Igodot-cpp\godot-headers
